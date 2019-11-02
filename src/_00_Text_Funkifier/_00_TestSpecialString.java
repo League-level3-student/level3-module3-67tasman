@@ -15,7 +15,7 @@ public class _00_TestSpecialString {
 	//   funkifyText method.
 	
 	//2. Fill in the funkifyText method in the BackwardsString class
-	//   to make the JUnitTest pass.
+	//   to make the cc pass.
 	@Test
 	public void testBackwardsString() {
 		SpecialString bs = new BackwardsString("This is a test");
